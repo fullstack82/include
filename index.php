@@ -1,5 +1,5 @@
 <?php
-include 'includes/cabecera.php';
+require 'includes/cabecera.php';
 ?>
     <div>
         <h2>Esta es la pagína de inicio</h2>
@@ -10,5 +10,5 @@ include 'includes/cabecera.php';
     </div>
 
 <?php
-include 'includes/footer.php';
+require 'includes/footer.php';
 ?>
