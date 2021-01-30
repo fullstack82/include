@@ -7,6 +7,10 @@
 </head>
 
 <body>
+    <?php
+        $nombre = "maria pinto"
+    ?>
+
     <div class="cabecera">
         <h1>Includes en php</h1>
         <ul>
